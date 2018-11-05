@@ -226,6 +226,20 @@
         margin-right: 1em;
     }
 
+    #box-right, #box-middle, #box-left {
+        margin-left: 0em !important;
+    }
+
+}
+
+@media only screen and (max-width: 270px) {
+    #front-text-area p {
+        max-width: 90%;
+        margin-top: 1em;
+    }
+    #front-text-area {
+        left: 5%;
+    }
 }
 
 /* BIG SCREEN */

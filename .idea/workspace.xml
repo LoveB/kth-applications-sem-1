@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a8af205-1f00-4b97-96ab-435d2f21b5eb" name="Default Changelist" comment="" />
+    <list default="true" id="5a8af205-1f00-4b97-96ab-435d2f21b5eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/small-screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/small-screen.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +87,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="8944" />
+          <entry key="css" value="8979" />
           <entry key="html" value="4925" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="8944" />
+          <entry key="CSS" value="8979" />
           <entry key="HTML" value="4925" />
         </counts>
       </usages-collector>
@@ -164,8 +166,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/small-screen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="38" column="20" lean-forward="true" selection-end-line="258" />
+            <state relative-caret-position="340">
+              <caret line="234" column="37" selection-start-line="234" selection-start-column="37" selection-end-line="234" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -198,6 +200,9 @@
       <find>fork</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -218,11 +223,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="468" />
-    <option name="y" value="107" />
-    <option name="width" value="1359" />
-    <option name="height" value="882" />
+    <option name="x" value="937" />
+    <option name="y" value="78" />
+    <option name="width" value="969" />
+    <option name="height" value="867" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -280,18 +286,18 @@
       <workItem from="1541058220457" duration="59609000" />
       <workItem from="1541236490016" duration="12800000" />
       <workItem from="1541322183295" duration="286000" />
-      <workItem from="1541326381428" duration="5251000" />
+      <workItem from="1541326381428" duration="6264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83214000" />
+    <option name="totallyTimeSpent" value="84227000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="107" width="1359" height="882" extended-state="0" />
+    <frame x="937" y="78" width="969" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24677297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3505933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -366,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/small-screen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="38" column="20" lean-forward="true" selection-end-line="258" />
+        <state relative-caret-position="340">
+          <caret line="234" column="37" selection-start-line="234" selection-start-column="37" selection-end-line="234" selection-end-column="37" />
         </state>
       </provider>
     </entry>
